@@ -1,6 +1,8 @@
 # Roku_IDK_shaders
 Using the Roku independent developer kit (IDK) with shaders
 
+(Tested to work on 2020 Roku Ulta. Fails to run on Roku 4K stick. working on an update for this) 
+
 Experimenting with shaders to see how they run.  
 Some run well, some do not.
 
